@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Save Your Food</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="please_name">Please enter a name for your sensor</string>
+    <string name="advice_name">(Location based names are advisable)</string>
+    <string name="range_humidity">Please enter the required humidity range</string>
+    <string name="range_temperature">Please enter the required temperature range</string>
+    <string name="noti_warninig">We will send you notifications if either the temperature or the humidity is out of the range</string>
+    <string name="new_detected">A new sensor was detected in a port.</string>
+    <string name="current_tem">Current Temperate\n %%DD</string>
+    <string name="current_hum">Current Humidity\n %%DD</string>
+    <string name="no_sensor">Sorry! There is no registered sensor.</string>
+
+    <string name="next">Next</string>
+    <string name="confirm">Confirm</string>
+    <string name="settings">Settings</string>
+
+    <string name="warning_temperature">Please check the temperature of %%SS. It should be between in %%LL and %%HH.</string>
+    <string name="warning_humidity">Please check the humidity of %%SS. It should be between in %%LL and %%HH</string>
+
+    <string name="temperature">%%TT Cel</string>
+    <string name="humidity">%%HH Per</string>
+</resources>
